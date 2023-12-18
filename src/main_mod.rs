@@ -1,3 +1,3 @@
-pub fn yadadada() {
-    println!("these are meaningless functions!");
+pub fn main_mod() {
+    unimplemented!();
 }
